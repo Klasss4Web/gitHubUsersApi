@@ -14,7 +14,7 @@ function loadUsers() {
 
             // users.forEach(user => {
             //     output += `<div class="users">
-            //                     <img src=${users.avatar_url} width="70" height="70">
+            //                     <img src="${users.avatar_url}" width="70" height="70">
             //                     <ul>
             //                         <li>ID: ${users.id}</li>
             //                         <li>Login: ${users.login}</li>
